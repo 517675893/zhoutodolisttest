@@ -1,0 +1,52 @@
+8
+
+dir
+58
+https://vip.svnspot.com/if1else0.test/todolisttest/src/com/example/todolist/test/testsuites
+https://vip.svnspot.com/if1else0.test
+
+
+
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6f6e7bb-0017-ded5-49dd-124932f569f0
+
+LoginSuite.java
+file
+
+
+
+
+2017-07-26T10:13:17.332000Z
+d983ac9297bdaa0a4cae8dc9c26177ed
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+ToDoListSuite.java
+file
+
+
+
+
+2017-07-26T10:13:17.342000Z
+a07b48672661d10a81c8cf666bc44ef9
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+

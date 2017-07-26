@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/if1else0.test/!svn/ver/12/todolisttest/src/com/example/todolist/test
+END
+BasicTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/if1else0.test/!svn/ver/3/todolisttest/src/com/example/todolist/test/BasicTestCase.java
+END
+BasicTestCaseOld.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/if1else0.test/!svn/ver/3/todolisttest/src/com/example/todolist/test/BasicTestCaseOld.java
+END
+BasicTestCaseWithLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/if1else0.test/!svn/ver/3/todolisttest/src/com/example/todolist/test/BasicTestCaseWithLogin.java
+END
+UIHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/if1else0.test/!svn/ver/3/todolisttest/src/com/example/todolist/test/UIHelper.java
+END

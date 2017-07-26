@@ -1,0 +1,154 @@
+8
+
+dir
+58
+https://vip.svnspot.com/if1else0.test/todolisttest
+https://vip.svnspot.com/if1else0.test
+
+
+
+2016-04-12T06:47:55.606887Z
+58
+if1else0
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6f6e7bb-0017-ded5-49dd-124932f569f0
+
+.classpath
+file
+
+
+
+
+2017-07-26T10:13:24.908000Z
+90984e0b97721864425fb285654ecbd2
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+.project
+file
+
+
+
+
+2017-07-26T10:13:24.939000Z
+1b3ffc66d830607edb97dd88ff9d3d2f
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+.settings
+dir
+
+AndroidManifest.xml
+file
+
+
+
+
+2017-07-26T10:13:24.989000Z
+386c09f696db69b67767678d2a269b8d
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+ant.properties
+file
+
+
+
+
+2017-07-26T10:13:25.008000Z
+3253ff4f7a57a02393b0a288650577aa
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+assets
+dir
+
+build.xml
+file
+
+
+
+
+2017-07-26T10:13:25.055000Z
+777107b59cb06fe1cd7c14bb4a6b6327
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+gen
+dir
+
+libs
+dir
+
+proguard-project.txt
+file
+
+
+
+
+2017-07-26T10:13:24.978000Z
+a8e31d01b7d94e721851a4dd39b088cb
+2015-02-26T08:04:46.862574Z
+3
+if1else0
+
+project.properties
+file
+
+
+
+
+2017-07-26T10:13:24.919000Z
+6bc29827a20f0391406586601017da3b
+2015-03-07T16:55:55.601771Z
+5
+if1else0
+
+res
+dir
+
+run.sh
+file
+
+
+
+
+2017-07-26T10:13:25.020000Z
+c2db05b50bf7b1385530bc8f48297962
+2015-03-08T15:57:50.207260Z
+14
+if1else0
+
+run1.sh
+file
+
+
+
+
+2017-07-26T10:13:25.067000Z
+c9b5ac5d665deb07624b324e7615cac0
+2016-04-12T06:47:55.606887Z
+58
+if1else0
+
+src
+dir
+
